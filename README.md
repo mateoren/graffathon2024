@@ -1,2 +1,2 @@
-# graffaton2024
+# graffathon2024
 Repo for our amazing demo
